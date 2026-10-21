@@ -5,23 +5,23 @@ class ClaudeGo < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.0/claude-go_darwin_arm64.tar.gz"
-      sha256 "50c5e31492b2a6c43e51a559d36829ad0219a675643cc2efa41e03d24b18bb38"
+      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.1/claude-go_darwin_arm64.tar.gz"
+      sha256 "820781f4bf23a4f51cfce45f5f1846377d1e47efe7c3b731abb64c0797e05de6"
     end
     on_intel do
-      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.0/claude-go_darwin_amd64.tar.gz"
-      sha256 "56ce72c3db02e0cd589443fad7e4ed098ce025d333e79f93c15941cf0fa1f6e2"
+      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.1/claude-go_darwin_amd64.tar.gz"
+      sha256 "7d0d4625e6a1b1f1a8440426188ae7ae7aa2623bd755e5d0f2a61f95ecca279f"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.0/claude-go_linux_arm64.tar.gz"
-      sha256 "95e008d4f8c9ab29b3820462f87518ec853651c9030e9908fb6e317b09a1caf1"
+      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.1/claude-go_linux_arm64.tar.gz"
+      sha256 "e26e18ca0cf8ad267e2dfd77fcc343a7a19c1ed3b44db930da5eeb5b306a83bc"
     end
     on_intel do
-      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.0/claude-go_linux_amd64.tar.gz"
-      sha256 "cea6e298a5cd79969cf8fe8d82c05194ece7b18fe2157ec796c63c175636a66e"
+      url "https://github.com/Svector-anu/claude-go/releases/download/v0.1.1/claude-go_linux_amd64.tar.gz"
+      sha256 "88d3e85b9ddcf73d0008a43fa892159f24eed134257b3a3541f2c065dcfe93d5"
     end
   end
 
