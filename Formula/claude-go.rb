@@ -1,7 +1,6 @@
 class ClaudeGo < Formula
   desc "Use several Claude Code accounts as one, switching when one hits its limit"
   homepage "https://github.com/Svector-anu/claude-go"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
